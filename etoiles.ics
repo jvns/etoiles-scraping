@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/mael-and-the-revolution_en/
+DTEND:20240711T031000Z
+LOCATION:Parc Sir-Wilfrid-Laurier 
+DTSTART:20240711T011000Z
+SUMMARY:Mael and the revolution
+UID:6619814f-78e8-48e8-8a1d-161f42d3f794@6619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/recolter-lhiver_en/
+DTEND:20240717T030000Z
+LOCATION:Parc du Pélican 
+DTSTART:20240717T010000Z
+SUMMARY:Récolter l'hiver
+UID:faafed70-ff11-4eb6-aca2-e303397b9083@faaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/projection/429_short-film-competition-programme-2_en/
+DTEND:20240726T024500Z
+LOCATION:Parc Molson 
+DTSTART:20240726T004500Z
+SUMMARY:Short film competition – Programme #2
+UID:9d191f66-4647-42a6-b4ff-fb29de6b99aa@9d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/silvicola_en/
+DTEND:20240717T030000Z
+LOCATION:Parc Médéric-Martin 
+DTSTART:20240717T010000Z
+SUMMARY:Silvicola
+UID:cac9c6ef-7f7b-4bbd-bfaa-c10a4640ba64@cac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/farming-the-revolution_en/
+DTEND:20240627T031500Z
+LOCATION:Parc Sir-Wilfrid-Laurier
+DTSTART:20240627T011500Z
+SUMMARY:Farming the Revolution
+UID:1f525387-bd49-4274-8aae-2771e8e141d2@1f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/la-guardia-blanca_en/
+DTEND:20240718T030000Z
+LOCATION:Parc Sir-Wilfrid-Laurier 
+DTSTART:20240718T010000Z
+SUMMARY:La guardia blanca
+UID:117075da-03fc-4aba-b157-62ae502b9169@1170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/a-golden-life_en/
+DTEND:20240704T031500Z
+LOCATION:Parc Sir-Wilfrid-Laurier 
+DTSTART:20240704T011500Z
+SUMMARY:A Golden Life
+UID:3a4ffaad-986b-429b-aac8-7659326606fb@3a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/non-aligned-scenes-from-the-labudovic-reels_en/
+DTEND:20240709T031000Z
+LOCATION:Parc Dante 
+DTSTART:20240709T011000Z
+SUMMARY:Non-Aligned: Scenes from the Labudovic Reels
+UID:1b9fb98e-ebdf-4a3a-b5a3-0d258a21b25b@1b9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/evicted-city_en/
+DTEND:20240703T031500Z
+LOCATION:Parc du Pélican 
+DTSTART:20240703T011500Z
+SUMMARY:Evicted City
+UID:c9772d23-3abf-446f-abd2-dbe7fa8ce49a@c977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/malartic_en/
+DTEND:20240720T030000Z
+LOCATION:Square Dézéry 
+DTSTART:20240720T010000Z
+SUMMARY:Malartic
+UID:82e26c0a-3129-4f0b-87af-1235e572750f@82e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/le-balai-libere_en/
+DTEND:20240710T031000Z
+LOCATION:Parc du Pélican 
+DTSTART:20240710T011000Z
+SUMMARY:Le balai libéré
+UID:c1aa9384-b3ca-404f-b067-f40346328436@c1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/the-velvet-queen_en-2/
+DTEND:20240712T031000Z
+LOCATION:Parc Notre-Dame-de-Grâce 
+DTSTART:20240712T011000Z
+SUMMARY:The Velvet Queen
+UID:db6e5a74-b0dd-4b14-a487-3ee06b801d36@db6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/orlando-my-political-biography_en/
+DTEND:20240703T031500Z
+LOCATION:Parc Médéric-Martin 
+DTSTART:20240703T011500Z
+SUMMARY:Orlando\, My Political Biography
+UID:1f67a216-7c70-4db8-843d-4877d5deecd5@1f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/deep-rising_en/
+DTEND:20240720T030000Z
+LOCATION:Parc Jarry 
+DTSTART:20240720T010000Z
+SUMMARY:Deep Rising
+UID:0c25e65f-392d-41e7-857d-ca6c44d3f11c@0c25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/evenements/opening-of-the15th-edition-of-the-cinema-sous-les-etoiles_en/
+DTEND:20240627T010000Z
+DTSTART:20240626T230000Z
+SUMMARY:Opening of the 15th edition of the Cinéma sous les étoiles
+UID:ec960ace-dd77-4bb5-b8c9-9beaf7332a22@ec96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/projection/391_king-coal-au-pays-des-crateres_en/
+DTEND:20240716T020000Z
+LOCATION:Parc Dante 
+DTSTART:20240716T000000Z
+SUMMARY:King Coal + Au pays des cratères
+UID:d45e99e0-2b49-4b63-bfcc-d4675d45c5be@d45e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/bye-bye-tiberias_en/
+DTEND:20240712T031000Z
+LOCATION:Parc Molson 
+DTSTART:20240712T011000Z
+SUMMARY:Bye Bye Tiberias
+UID:149bc9fd-3a5d-454e-922c-8db7306cf64e@149b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/la-theorie-du-boxeur_en/
+DTEND:20240716T030000Z
+LOCATION:Parc des Faubourgs 
+DTSTART:20240716T010000Z
+SUMMARY:La théorie du boxeur
+UID:28836cae-04c5-401e-b84d-eed47d6a6d8e@2883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/projection/427_short-film-competition-programme-2_en/
+DTEND:20240724T024500Z
+LOCATION:Parc Médéric-Martin 
+DTSTART:20240724T004500Z
+SUMMARY:Short film competition – Programme #2
+UID:b9dde295-b992-4db2-a629-bef532bb0cbd@b9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/twice-colonized_en/
+DTEND:20240705T031500Z
+LOCATION:Station Youville 
+DTSTART:20240705T011500Z
+SUMMARY:Twice Colonized
+UID:2e21ad14-a001-4b5c-8d0d-65d761adb47c@2e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/projection/426_short-film-competition-programme-1_en/
+DTEND:20240723T024500Z
+LOCATION:Parc des Faubourgs 
+DTSTART:20240723T004500Z
+SUMMARY:Short film competition – Programme #1
+UID:c90d60e6-8f35-4251-a2ad-1c74f0c03f72@c90d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/eviction_en/
+DTEND:20240710T031000Z
+LOCATION:Parc Médéric-Martin 
+DTSTART:20240710T011000Z
+SUMMARY:Éviction
+UID:7fafd27a-aa9e-41f2-8beb-d5f487596b6f@7faf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/breaking-social_en/
+DTEND:20240705T031500Z
+LOCATION:Parc Molson 
+DTSTART:20240705T011500Z
+SUMMARY:Breaking Social
+UID:657aad80-1125-45f0-8849-997368af9e01@657a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/manufacturing-the-threat_en/
+DTEND:20240709T031000Z
+LOCATION:Parc des Faubourgs 
+DTSTART:20240709T011000Z
+SUMMARY:Manufacturing the Threat
+UID:ee57d3eb-1612-4cf5-acbe-763370ab4ec0@ee57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/the-flag_en/
+DTEND:20240702T031500Z
+LOCATION:Parc des Faubourgs 
+DTSTART:20240702T011500Z
+SUMMARY:The Flag
+UID:fcf29078-5f1d-4891-8f98-0e9f43e8396c@fcf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/film/la-ferme-des-bertrand_en/
+DTEND:20240719T030000Z
+LOCATION:Parc Molson 
+DTSTART:20240719T010000Z
+SUMMARY:La ferme des Bertrand
+UID:eb6fd2ed-82df-4baf-980f-a86c072bd080@eb6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://cinemasouslesetoiles.org/en/projection/428_short-film-competition-programme-3_en/
+DTEND:20240725T024500Z
+LOCATION:Parc des Compagnons-de-Saint-Laurent 
+DTSTART:20240725T004500Z
+SUMMARY:Short film competition – Programme #3
+UID:79d0aeba-4500-497e-921e-6ea845cffab5@79d0.org
+END:VEVENT
+END:VCALENDAR
